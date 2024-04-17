@@ -1,8 +1,6 @@
-
 ---
-title: "Introduction"
-draft: false
+title: 
+draft: 
 tags:
-  -
-- - - 
-
+---
+The introduction goes here.
